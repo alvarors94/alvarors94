@@ -38,7 +38,7 @@
              name="abv" value="${beer.abv}">
     </div>
     <div class="text-center">
-      <button type="submit" class="btn btn-warning btn-sm me-3">Add</button>
+      <button type="submit" class="btn btn-success btn-sm me-3">Add</button>
       <a href="${urlInicio}" class="btn btn-danger btn-sm">Back</a>
     </div>
   </form>
